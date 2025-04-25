@@ -1,6 +1,3 @@
-Sure, Sandra! Here's the updated README, including your GitHub link:
-
----
 
 # TicTacToe
 
