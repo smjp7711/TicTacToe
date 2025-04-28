@@ -1,7 +1,7 @@
 
 # TicTacToe
 
-**TicTacToe** is a simple console-based C# program that allows users to play the classic game of Tic-Tac-Toe. It employs loops and matrixes to create the game board, handle player input, and determine the winner.
+**TicTacToe** is a simple console-based C# program that allows users to play the classic game of Tic-Tac-Toe. It employs loops and matrices to create the game board, handle player input, and determine the winner.
 
 ## Table of Contents
 1. [Overview](#overview)
